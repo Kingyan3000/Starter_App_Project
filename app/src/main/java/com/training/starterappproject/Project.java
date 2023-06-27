@@ -11,5 +11,6 @@ public class Project {
         this.name = name;
         this.description = description;
         this.image = image;
+
     }
 }
